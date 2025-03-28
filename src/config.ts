@@ -1,46 +1,46 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
+    website: "https://soulnovo.com", // replace this with your deployed domain
+    title: "Mario Vicuña | Full Stack Web Developer focused on Shopify & Wordpress",
+    description: "Soluciones efectivas en Shopify y WordPress para potenciar tu negocio online",
+    tags: ["portfolio", "Resume cv", "Wordpress", "Shopify", "React", "TailwindCSS"],
     ogImage: "/og-image.webp",
     logo: "logo",
-    logoText: "Portfolio",
+    logoText: "Mario Vicuña",
     lang: "en",
     favicon: "/favicon.png",
     repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
-    profile: "https://victoralvarado.dev/",
+    author: "Mario Vicuña",
+    profile: "https://www.linkedin.com/in/mario-vicuna/",
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
-    profileImage: "pp2.png",
+    name: "Mario Vicuña",
+    profession: "Full Stack Developer focused on Shopify & Wordpress",
+    profileImage: "pp.jpg",
     profileFacts: [
         {
-            value: 10,
+            value: 8,
             description: "Years of Experience"
         },
         {
-            value: 5,
-            description: "Completed Projects"
+            value: 500,
+            description: "Bug Fixes & Optimizations"
         },
         {
-            value: 4,
-            description: "Satisfied Clients"
+            value: 4000,
+            description: "Coffee Cups"
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+        email: "mariovicunaula@gmail.com",
+        linkedin: "https://www.linkedin.com/in/mario-vicuna/",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "With over 10 years of experience, I specialize in both Shopify and WordPress development. I create dynamic, responsive websites that deliver outstanding user experiences and drive business results. Whether building custom Shopify themes or WordPress solutions, I focus on performance, scalability, and user-centric design. I'm passionate about collaboration, and I ensure every project is executed to the highest standards, using modern development practices.",
 }
 
 export const SOCIALS = [
-    {
+    /*{
         name: "Twitter",
         url: "https://twitter.com/vicbox.dev",
         icon: "twitter-x-fill",
@@ -53,26 +53,20 @@ export const SOCIALS = [
         show: false
     },
     {
-        name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
-        icon: "instagram-fill",
-        show: true
-    },
-    {
         name: "Youtube",
         url: "https://www.youtube.com/vicbox.dev",
         icon: "youtube-fill",
         show: true
-    },
+    },*/
     {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
+        name: "Instagram",
+        url: "https://www.instagram.com/nombre.numerito/",
+        icon: "instagram-fill",
+        show: true
     },
     {
         name: "GitHub",
-        url: "https://github.com/vicbox.dev",
+        url: "https://github.com/lolpox",
         icon: "github-fill",
         show: true
     }
