@@ -8,7 +8,7 @@ export const SITE = {
     logoText: "Mario Vicuña",
     lang: "en",
     favicon: "/favicon.png",
-    repository: "https://github.com/vito8916/simple-portfolio.git",
+    repository: "https://github.com/lolpox/astrolanding.git",
     author: "Mario Vicuña",
     profile: "https://www.linkedin.com/in/mario-vicuna/",
 }
