@@ -1,5 +1,5 @@
 export const SITE = {
-    website: "https://soulnovo.com", // replace this with your deployed domain
+    website: "https://mariovicuna.space", // replace this with your deployed domain
     title: "Mario Vicuña | Full Stack Web Developer focused on Shopify & Wordpress",
     description: "Soluciones efectivas en Shopify y WordPress para potenciar tu negocio online",
     tags: ["portfolio", "Resume cv", "Wordpress", "Shopify", "React", "TailwindCSS"],
