@@ -45,28 +45,20 @@ interface WorkExperience {
 const workExperience:WorkExperience[] = [
     {
         title: "Shopify & Wordpress Developer",
-        startDate: "2023-09",
-        company: "Upwork",
+        startDate: "2019-09",
+        endDate: "2025-05",
+        company: "Pluton Media",
         location: "Remote",
         description: "Specialized in Shopify and WordPress development, delivering tailored eCommerce and business websites.",
         goals: [
-            "Specialized in Shopify and WordPress development, delivering tailored eCommerce and business websites.",
-            "Enhanced site performance and optimized conversion rates for both Shopify and WordPress projects.",
-            "Managed long-term client relationships, consistently exceeding expectations and meeting deadlines.",
-        ],
-        currentJob: true,
-    },
-    {
-        title: "Wordpress Developer",
-        startDate: "2023-01",
-        endDate: "2023-08",
-        company: "AbogadosNow",
-        location: "Remote",
-        description: " Collaborated with the design team to create responsive, user-friendly WordPress websites for a legal firm.",
-        goals: [
-            " Collaborated with the design team to create responsive, user-friendly WordPress websites for a legal firm.",
-            "Ensured pixel-perfect design implementations using Elementor Pro, optimizing for performance and accessibility.",
-        ],
+            "Developed responsive WordPress sites using Elementor Pro based on Figma designs.", 
+            "Ensured pixel-perfect implementation, performance optimization, and adherence to accessibility standards.",
+            "Delivered customized e-commerce solutions leveraging Shopify’s custom themes, apps, and integration capabilities.",
+            "Implemented AI-powered Shopify apps to enhance user experience, optimize product recommendations, and improve customer engagement.",
+            "Integrated third-party APIs with Shopify to streamline inventory management, enhance marketing automation, and improve overall site performance.",
+            "Collaborated with cross-functional teams to ensure smooth project delivery, combining design, development, and AI-driven solutions for clients in the legal industry and beyond.",
+            "Focused on improving conversion rates and site speed using."
+    ],
         currentJob: false,
     },
     {
